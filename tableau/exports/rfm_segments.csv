@@ -1,0 +1,7 @@
+customer_segment,customers,avg_days_since_purchase,avg_purchase_sessions,avg_purchase_value_per_customer,recorded_purchase_value
+Hibernating,21754,47.6,1.06,38.17,830308.72
+Promising Customers,13586,7.1,1.18,48.75,662370.81
+Other Buyers,12462,21.7,1.14,45.33,564879.91
+Loyal Customers,1291,11.6,3.18,143.63,185429.66
+Champions,546,5.8,5.4,231.38,126331.63
+At Risk,222,41.9,3.28,142.06,31538.02

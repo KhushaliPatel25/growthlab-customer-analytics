@@ -1,0 +1,2 @@
+experiment,data_type,control_rate_pct,treatment_rate_pct,absolute_uplift_pp,relative_uplift_pct,z_statistic,p_value,ci_lower_pp,ci_upper_pp,significant,alpha
+Simplified Checkout,Synthetic,8.175,9.34,1.165,14.25076,4.121329,3.7669334462427495e-05,0.61108,1.71892,True,0.05

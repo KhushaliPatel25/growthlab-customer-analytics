@@ -1,0 +1,7 @@
+session_month,stage_number,stage,sessions,total_sessions,pct_of_view_sessions,pct_from_previous_stage
+2019-12-01,1,Viewed Product,794518.0,839865,100.0,
+2019-12-01,2,Viewed + Cart,130372.0,839865,16.41,16.41
+2019-12-01,3,Viewed + Cart + Purchased,20001.0,839865,2.52,15.34
+2020-01-01,1,Viewed Product,911358.0,963750,100.0,
+2020-01-01,2,Viewed + Cart,155224.0,963750,17.03,17.03
+2020-01-01,3,Viewed + Cart + Purchased,21829.0,963750,2.4,14.06

@@ -1,0 +1,30 @@
+# Local and sensitive inputs
+.venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+.DS_Store
+Thumbs.db
+
+# Customer-level raw data, generated local DB and per-visitor simulated data
+data/raw/
+data/processed/
+*.duckdb
+*.duckdb.wal
+
+# Local Tableau state and intermediate workbooks
+*.hyper
+*.tde
+*.twb
+*.twbr
+*.twbx~
+*.bak
+*.tmp
+
+# Archive / transfer files
+*.zip

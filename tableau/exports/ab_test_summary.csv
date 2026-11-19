@@ -1,0 +1,3 @@
+variant,visitors,conversions,conversion_rate_pct,ci_lower_pct,ci_upper_pct
+Control,20000,1635,8.175,7.803268695293691,8.56279512079946
+Treatment,20000,1868,9.34,8.944484167918,9.751132204164428
